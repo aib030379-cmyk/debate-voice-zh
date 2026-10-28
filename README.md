@@ -1,4 +1,4 @@
-# 辩手写稿 · debate-voice-zh
+# 辩论skill · debate-voice-zh
 
 **说人话，有争议，有深度。** 一个用辩论视角写中文稿、改中文稿的 Claude 技能（Skill）。
 
